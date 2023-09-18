@@ -1,121 +1,167 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Software Engineering Portfolio</title>
-    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file (if used) -->
-    <style>
-        /* Add any additional inline CSS styles here */
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-        }
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>I am Ignatius</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
 
-        /* Style your sections, headers, and other elements as needed */
-        nav {
-            background-color: #333;
-            color: white;
-            text-align: center;
-        }
+		<!-- Header -->
+			<header id="header">
+				<h1>Ignatius Tang</h1>
+				<nav>
+					<ul>
+						<li><a href="#intro">Intro</a></li>
+						<li><a href="#one">What I Do</a></li>
+						<li><a href="#two">Who I Am</a></li>
+						<li><a href="#work">My Works</a></li>
+						<li><a href="#contact">Contact</a></li>
+					</ul>
+				</nav>
+			</header>
 
-        nav ul {
-            list-style-type: none;
-            padding: 0;
-        }
+		<!-- Intro -->
+			<section id="intro" class="main style1 dark fullscreen">
+				<div class="content">
+					<header>
+						<h2>Hello!</h2>
+						<h2>你好!</h2>
+						<h2>こんにちは!</h2>
+						<h2>Hallo!</h2>
+					</header>
+					<p style="text-align: left; color: rgb(47, 181, 47); font-family: 'Courier New', monospace; font-size: 18px; background-color: #000000; padding: 10px; line-height: 2;">
+						<strong>>>> Welcome to my profile!</strong><br />
+						<strong>>>> I'm a software developer who blends programming logic with creative art design;</strong><br />
+						<strong>>>> With a solid foundation in both worlds, I bring a unique and dynamic perspective to all my projects;</strong><br />
+						<strong>>>> Let me show you my creative developer journey;</strong>
+					</p>
+					
+					<footer>
+						<a href="#one" class="button style2 down">More</a>
+					</footer>
+				</div>
+			</section>
 
-        nav li {
-            display: inline;
-            margin: 0 10px;
-        }
+		<!-- One -->
+			<section id="one" class="main style2 right dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>What I Do</h2>
+					</header>
+					<p>My expertise lies at the intersection of software development and creative design. 
+						I'm proficient in a range of programming languages and technologies, but what truly sets me apart is my ability to transform ideas into visually stunning and user-friendly applications. 
+						Whether it's crafting pixel-perfect front-end interfaces, developing interactive multimedia experiences, or architecting back-end systems with an eye for scalability, I relish the challenge of marrying technology with design.
+					</p>
+				</div>
+				<a href="#two" class="button style2 down anchored">Next</a>
+			</section>
 
-        nav a {
-            text-decoration: none;
-            color: white;
-        }
+		<!-- Two -->
+			<section id="two" class="main style2 left dark fullscreen">
+				<div class="content box style2">
+					<header>
+						<h2>Who I Am</h2>
+					</header>
+					<p>As a creative coder, I bridge the gap between technology and aesthetics. 
+						My journey in software development started with a love for problem-solving and a knack for visualizing solutions. 
+						Over the years, I've honed my skills in designing elegant user interfaces, crafting immersive user experiences, and optimizing code for efficiency and beauty.</p>
+				</div>
+				<a href="#work" class="button style2 down anchored">Next</a>
+			</section>
 
-        #hero {
-            text-align: center;
-            padding: 100px 0;
-            background-color: #007bff;
-            color: white;
-        }
+		<!-- Work -->
+			<section id="work" class="main style3 primary">
+				<div class="content">
+					<header>
+						<h2>My Work</h2>
+						<p>Explore my portfolio to witness the synergy between code and creativity. 
+							Each project reflects my commitment to innovation, aesthetics, and functionality. 
+							From crafting visually engaging websites and mobile apps to designing intuitive user interfaces for complex software solutions, 
+							I take pride in creating experiences that captivate and inspire.</p>
+					</header>
 
-        #about, #projects, #contact {
-            padding: 40px 0;
-            text-align: center;
-        }
+					<!-- Gallery  -->
+						<div class="gallery">
+							<article class="from-left">
+								<a href="images/fulls/01.jpg" class="image fit"><img src="images/thumbs/01.jpg" title="The Anonymous Red" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/02.jpg" class="image fit"><img src="images/thumbs/02.jpg" title="Airchitecture II" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/fulls/03.jpg" class="image fit"><img src="images/thumbs/03.jpg" title="Air Lounge" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/04.jpg" class="image fit"><img src="images/thumbs/04.jpg" title="Carry on" alt="" /></a>
+							</article>
+							<article class="from-left">
+								<a href="images/fulls/05.jpg" class="image fit"><img src="images/thumbs/05.jpg" title="The sparkling shell" alt="" /></a>
+							</article>
+							<article class="from-right">
+								<a href="images/fulls/06.jpg" class="image fit"><img src="images/thumbs/06.jpg" title="Bent IX" alt="" /></a>
+							</article>
+						</div>
 
-        .project {
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            margin: 20px;
-            transition: transform 0.3s;
-        }
+				</div>
+			</section>
 
-        .project:hover {
-            transform: scale(1.05);
-        }
+		<!-- Contact -->
+			<section id="contact" class="main style3 secondary">
+				<div class="content">
+					<header>
+						<h2>Let's Collaborate.</h2>
+						<p>Whether you have a coding challenge, a design concept, 
+							or a project that demands the best of both worlds, 
+							I'm ready to contribute my expertise and creativity.
+						</p>
+					</header>
+					<div class="box">
+						<form method="post" action="#">
+							<div class="fields">
+								<div class="field half"><input type="text" name="name" placeholder="Name" /></div>
+								<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
+								<div class="field"><textarea name="message" placeholder="Message" rows="6"></textarea></div>
+							</div>
+							<ul class="actions special">
+								<li><input type="submit" value="Send Message" /></li>
+							</ul>
+						</form>
+					</div>
+				</div>
+			</section>
 
-        /* Add more styling as needed */
-    </style>
-</head>
-<body>
-    <!-- Navigation Bar -->
-    <nav>
-        <ul>
-            <li><a href="#about">About</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <li><a href="#contact">Contact</a></li>
-        </ul>
-    </nav>
+		<!-- Footer -->
+			<footer id="footer">
 
-    <!-- Hero Section -->
-    <section id="hero">
-        <h1>Your Name</h1>
-        <p>Software Engineer</p>
-        <p>Passionate about creating innovative solutions.</p>
-    </section>
+				<!-- Icons -->
+					<ul class="icons">
+						<li><a href="https://twitter.com/IgnatiusUI" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="https://instagram.com/ignatius.ui" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="https://www.linkedin.com/in/ignatius-tang-5babb91bb/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://iggyikigai.github.io/Profile/" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="#" class="icon brands fa-pinterest"><span class="label">Pinterest</span></a></li>
+					</ul>
 
-    <!-- About Section -->
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Provide a brief introduction about yourself, your background, and your software engineering journey.</p>
-    </section>
+				<!-- Menu -->
+					<ul class="menu">
+						<li>&copy; Ignatius Tang Portfolio</li>
+					</ul>
 
-    <!-- Projects Section -->
-    <section id="projects">
-        <h2>Projects</h2>
-        <!-- Add your project cards or descriptions here -->
-        <div class="project">
-            <h3>Project 1</h3>
-            <p>Description of Project 1.</p>
-            <a href="project1.html">Learn More</a>
-        </div>
-        <div class="project">
-            <h3>Project 2</h3>
-            <p>Description of Project 2.</p>
-            <a href="project2.html">Learn More</a>
-        </div>
-        <!-- Add more project sections as needed -->
-    </section>
+			</footer>
 
-    <!-- Contact Section -->
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <p>Feel free to reach out to me for collaborations or inquiries.</p>
-        <a href="mailto:youremail@example.com">Email Me</a>
-        <a href="https://linkedin.com/in/your-profile">LinkedIn</a>
-        <a href="https://github.com/yourusername">GitHub</a>
-    </section>
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
-    <!-- Footer -->
-    <footer>
-        <p>&copy; 20XX Your Name</p>
-    </footer>
-</body>
+	</body>
 </html>
