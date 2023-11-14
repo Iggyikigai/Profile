@@ -7,7 +7,7 @@ Hey there! I'm Ignatius Tang, a passionate software developer with a strong back
 - 🌟 **Years of Experience**: 3 years in software engineering.
 - 💼 **Current Role**: Exchange Student at Esslingen School of Applied Sciences, Germany.
 - 🎓 **Education**: Year 3 Information Engineering and Media undergraduate at Nanyang Technological University.
-- 🌐 **Website**: Coming soon...
+- 🌐 **Website**: https://iggyikigai.github.io/Profile/
 
 ## What I Do
 
@@ -19,19 +19,20 @@ I specialize in:
 
 ## My GitHub Contributions
 
-Here are some highlights of my GitHub contributions:
+Here are some highlights of my Project contributions:
 
-- 🌟 [Project Name 1](Link to Project 1): A brief description of the project and your role.
-- 🌟 [Project Name 2](Link to Project 2): Another notable project with your contribution details.
-- 🌟 [Project Name 3](Link to Project 3): Describe your involvement and achievements in this project.
+- 🌟 [RENTAWEAR](Link to Project 1): Full-stack E-shop for formal wear rentals using Java, HTML, CSS.
+- 🌟 [IEscapeMedieval](Link to Project 2): Escape Room 3P Game run in Unity Engine.
+- 🌟 [QUEEEZ](Link to Project 3): Online quiz application for students and teachers with admin rights using Android   Studios, React, Node.js, Java, Javascript, XML.
+- 🌟 [Stroke Prediction](Link to Project 4): Gradient Boosting in Python using Jupyter Notebook to predict stroke from Kaggle dataset .
 
 ## Let's Connect!
 
 Feel free to explore my repositories, open issues, and contribute to any projects you find interesting. If you'd like to connect or collaborate, you can reach me through:
 
-- 📧 **Email**: 12ignatiustang@gmail.com
-- 📱 **LinkedIn**: https://www.linkedin.com/in/ignatius-tang-5babb91bb/
-- 🐦 **Twitter**: [Your Twitter Profile URL]
-- 🌐 **Website/Blog**: Coming soon...
+- 📫 **Email**: 12ignatiustang@gmail.com
+- 👤 **LinkedIn**: https://www.linkedin.com/in/ignatius-tang-5babb91bb/
+- 📱 **Instagram**: https://www.instagram.com/ignatius.ui/
+- 🌐 **Website/Blog**: https://iggyikigai.github.io/Profile/
 
 I'm always excited to meet fellow developers, share knowledge, and work on exciting projects together. Thanks for visiting, and happy coding! 🚀
