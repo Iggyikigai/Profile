@@ -31,7 +31,7 @@ Here are some highlights of my Project contributions:
 Feel free to explore my repositories, open issues, and contribute to any projects you find interesting. If you'd like to connect or collaborate, you can reach me through:
 
 - 📫 **Email**: 12ignatiustang@gmail.com
-- 👤 **LinkedIn**: https://www.linkedin.com/in/ignatius-tang-5babb91bb/
+- 👤 **LinkedIn**: https://www.linkedin.com/in/ignatiustanghq/
 - 📱 **Instagram**: https://www.instagram.com/ignatius.ui/
 - 🌐 **Website/Blog**: https://iggyikigai.github.io/Profile/
 
