@@ -24,7 +24,7 @@ Here are some highlights of my Project contributions:
 - 1🌟 [RENTAWEAR](Link to Project 1): Full-stack E-shop for formal wear rentals using Java, HTML, CSS.
 - 2🌟 [IEscapeMedieval](Link to Project 2): Escape Room 3P Game run in Unity Engine.
 - 3🌟 [QUEEEZ](Link to Project 3): Online quiz application for students and teachers with admin rights using Android   Studios, React, Node.js, Java, Javascript, XML.
-- 4🌟 [Stroke Prediction](Link to Project 4): Gradient Boosting in Python using Jupyter Notebook to predict stroke from Kaggle dataset.
+- 4🌟 [Stroke Prediction](https://github.com/Iggyikigai/Stroke_Prediction): Gradient Boosting in Python using Jupyter Notebook to predict stroke from Kaggle dataset.
 
 ## Let's Connect!
 
