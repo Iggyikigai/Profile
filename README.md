@@ -1,21 +1,21 @@
 # Welcome to My GitHub Profile 👋
 
-Hey there! I'm Ignatius Tang, a passionate software developer with a strong background in creating innovative and efficient solutions. Welcome to my GitHub profile, where you'll find a collection of my projects and contributions in the world of software development.
+Hey there! I'm Ignatius Tang, a passionate data scientist with a strong background in creating innovative and efficient solutions. Welcome to my GitHub profile, where you'll find a collection of my projects and contributions in the world of data science and AI.
 
 ## About Me
 
-- 🌟 **Years of Experience**: 3 years in software engineering.
+- 🌟 **Years of Experience**: 4 years in software engineering and data science.
 - 💼 **Current Role**: Exchange Student at Esslingen School of Applied Sciences, Germany.
-- 🎓 **Education**: Year 3 Information Engineering and Media undergraduate at Nanyang Technological University.
+- 🎓 **Education**: Penultimate Information Engineering and Media undergraduate at Nanyang Technological University.
 - 🌐 **Website**: https://iggyikigai.github.io/Profile/
 
 ## What I Do
 
 I specialize in:
 
-- 💻 **Programming Languages**: C/C#, Java, JS, Python
-- 🚀 **Technologies**: React, NodeJS, AI Library(Pandas), Selenium
-- 📚 **Areas of Expertise**: Web Development, Frontend Design, Server-side Management, Automation Testing
+- 💻 **Programming Languages**: Python, C/C#, Java, JS
+- 🚀 **Technologies**: Azure ML Studio, Prompt Flow, React, NodeJS, AI Library(Pandas), Selenium
+- 📚 **Areas of Expertise**: Data Scientist, Web Development, Frontend Design, Server-side Management, Automation Testing
 
 ## My GitHub Contributions
 
@@ -35,4 +35,4 @@ Feel free to explore my repositories, open issues, and contribute to any project
 - 📱 **Instagram**: https://www.instagram.com/ignatius.ui/
 - 🌐 **Website/Blog**: https://iggyikigai.github.io/Profile/
 
-I'm always excited to meet fellow developers, share knowledge, and work on exciting projects together. Thanks for visiting, and happy coding! 🚀
+I'm always excited to meet fellow data scientists, share knowledge, and work on exciting projects together. Thanks for visiting, and happy coding! 🚀
