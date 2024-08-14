@@ -5,8 +5,8 @@ Hey there! I'm Ignatius Tang, a passionate data scientist with a strong backgrou
 ## About Me
 
 - 🌟 **Years of Experience**: 4 years in software engineering and data science.
-- 💼 **Current Role**: Exchange Student at Esslingen School of Applied Sciences, Germany.
-- 🎓 **Education**: Penultimate Information Engineering and Media undergraduate at Nanyang Technological University.
+- 💼 **Current Role**: Penultimate Student graduating in May 2025
+- 🎓 **Education**: Information Engineering and Media at Nanyang Technological University.
 - 🌐 **Website**: https://iggyikigai.github.io/Profile/
 
 ## What I Do
