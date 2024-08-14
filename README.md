@@ -15,16 +15,17 @@ I specialize in:
 
 - 💻 **Programming Languages**: Python, C/C#, Java, JS
 - 🚀 **Technologies**: Azure ML Studio, Prompt Flow, React, NodeJS, AI Library(Pandas), Selenium
-- 📚 **Areas of Expertise**: Data Scientist, Web Development, Frontend Design, Server-side Management, Automation Testing
+- 📚 **Areas of Expertise**: Data Science, Prompt Engineering, Web Development, Frontend Design, Server-side Management, Automation Testing
 
 ## My GitHub Contributions
 
 Here are some highlights of my Project contributions:
 
-- 1🌟 [RENTAWEAR](Link to Project 1): Full-stack E-shop for formal wear rentals using Java, HTML, CSS.
-- 2🌟 [IEscapeMedieval](Link to Project 2): Escape Room 3P Game run in Unity Engine.
-- 3🌟 [QUEEEZ](Link to Project 3): Online quiz application for students and teachers with admin rights using Android   Studios, React, Node.js, Java, Javascript, XML.
-- 4🌟 [Stroke Prediction](https://github.com/Iggyikigai/Stroke_Prediction): Gradient Boosting in Python using Jupyter Notebook to predict stroke from Kaggle dataset.
+- 1🌟 [HTX Intern Report](Link to Project 1): Wordsmith, Gen-AI, Azure Prompt Flow.
+- 2🌟 [RENTAWEAR](Link to Project 2): Full-stack E-shop for formal wear rentals using Java, HTML, CSS.
+- 3🌟 [IEscapeMedieval](Link to Project 3): Escape Room 3P Game run in Unity Engine.
+- 4🌟 [QUEEEZ](Link to Project 4): Online quiz application for students and teachers with admin rights using Android   Studios, React, Node.js, Java, Javascript, XML.
+- 5🌟 [Stroke Prediction](https://github.com/Iggyikigai/Stroke_Prediction): Gradient Boosting in Python using Jupyter Notebook to predict stroke from Kaggle dataset.
 
 ## Let's Connect!
 
