@@ -26,6 +26,7 @@ Here are some highlights of my Project contributions:
 - 3🌟 [IEscapeMedieval](Link to Project 3): Escape Room 3P Game run in Unity Engine.
 - 4🌟 [QUEEEZ](Link to Project 4): Online quiz application for students and teachers with admin rights using Android   Studios, React, Node.js, Java, Javascript, XML.
 - 5🌟 [Stroke Prediction](https://github.com/Iggyikigai/Stroke_Prediction): Gradient Boosting in Python using Jupyter Notebook to predict stroke from Kaggle dataset.
+- 6🌟 [Digit Recogniser using Tensorflow](https://github.com/Iggyikigai/Digitrecogniser): Digit Recogniser Computer-Vision Tool using Tensorflow & Keras from MNIST dataset, evaluated on domestic dataset.
 
 ## Let's Connect!
 
