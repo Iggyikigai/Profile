@@ -4,8 +4,8 @@ Hey there! I'm Ignatius Tang, a passionate data scientist with a strong backgrou
 
 ## About Me
 
-- 🌟 **Years of Experience**: 4 years in software engineering and data science.
-- 💼 **Current Role**: Penultimate Student graduating in May 2025
+- 🌟 **Years of Experience**: 4 years in Data Science and AI and Software Developent.
+- 💼 **Current Role**: Final Year Student graduating in May 2025
 - 🎓 **Education**: Information Engineering and Media at Nanyang Technological University.
 - 🌐 **Website**: https://iggyikigai.github.io/Profile/
 
@@ -13,9 +13,9 @@ Hey there! I'm Ignatius Tang, a passionate data scientist with a strong backgrou
 
 I specialize in:
 
-- 💻 **Programming Languages**: Python, C/C#, Java, JS
-- 🚀 **Technologies**: Azure ML Studio, Prompt Flow, React, NodeJS, AI Library(Pandas), Selenium
-- 📚 **Areas of Expertise**: Data Science, Prompt Engineering, Web Development, Frontend Design, Server-side Management, Automation Testing
+- 💻 **Programming Languages**: Python, C/C#, Java, JS, HTML/CSS
+- 🚀 **Technologies**: Azure ML Studio, Prompt Flow, React, NodeJS, AI Library(Pandas), TensorFlow, ScikitLearn, Selenium
+- 📚 **Areas of Expertise**: Natural Language Processing, Computer Vision, Data Science, Prompt Engineering, Web Development, Frontend Design, Server-side Management, Automation Testing
 
 ## My GitHub Contributions
 
