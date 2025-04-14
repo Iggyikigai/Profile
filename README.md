@@ -21,7 +21,7 @@ I specialize in:
 
 Here are some highlights of my Project contributions:
 
-- 1🌟 [HTX Intern Report](https://github.com/Iggyikigai/Profile/blob/master/Ignatius%20Tang%20-%20HTX%20Intern%20Report.pdf): Wordsmith, Gen-AI, Azure Prompt Flow.
+- 1🌟 [HTX Intern Report](https://drive.google.com/file/d/1GNb72rFjGsNYjPxGjLfZujUMSdQ5Whjt/view?usp=sharing): Wordsmith, Gen-AI, Azure Prompt Flow.
 - 2🌟 [RENTAWEAR]: Full-stack E-shop for formal wear rentals using Java, HTML, CSS.
 - 3🌟 [IEscapeMedieval]: Escape Room 3P Game run in Unity Engine.
 - 4🌟 [QUEEEZ]: Online quiz application for students and teachers with admin rights using Android   Studios, React, Node.js, Java, Javascript, XML.
