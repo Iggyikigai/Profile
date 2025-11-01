@@ -27,6 +27,7 @@ Here are some highlights of my Project contributions:
 - 4🌟 [QUEEEZ]: Online quiz application for students and teachers with admin rights using Android   Studios, React, Node.js, Java, Javascript, XML.
 - 5🌟 [Stroke Prediction](https://github.com/Iggyikigai/Stroke_Prediction): Gradient Boosting in Python using Jupyter Notebook to predict stroke from Kaggle dataset.
 - 6🌟 [Digit Recogniser using Tensorflow](https://github.com/Iggyikigai/Digitrecogniser): Digit Recogniser Computer-Vision Tool using Tensorflow & Keras from MNIST dataset, evaluated on domestic dataset.
+- 3🌟 [FactifAI](https://github.com/Iggyikigai/FactifAI): News Classification using NLP Techniques, finetuned RoBERTa and Electra models with automatic Selenium web-scraper on X.com.
 
 ## Let's Connect!
 
