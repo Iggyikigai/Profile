@@ -5,7 +5,7 @@ Hey there! I'm Ignatius Tang, a passionate data scientist with a strong backgrou
 ## About Me
 
 - 🌟 **Years of Experience**: 4 years in Data Science and AI and Software Developent.
-- 💼 **Current Role**: Final Year Student graduating in May 2025
+- 💼 **Current Role**: AI Engineer and Data Scientist
 - 🎓 **Education**: Information Engineering and Media at Nanyang Technological University.
 - 🌐 **Website**: https://iggyikigai.github.io/Profile/
 
