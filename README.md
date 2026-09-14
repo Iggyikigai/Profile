@@ -1,11 +1,11 @@
 # Welcome to My GitHub Profile 👋
 
-Hey there! I'm Ignatius Tang, a passionate data scientist with a strong background in creating innovative and efficient solutions. Welcome to my GitHub profile, where you'll find a collection of my projects and contributions in the world of data science and AI.
+Hey there! I'm Ignatius Tang, a passionate AI Engineer with a strong background in creating innovative and efficient solutions. Welcome to my GitHub profile, where you'll find a collection of my projects and contributions in the world of data science and AI.
 
 ## About Me
 
-- 🌟 **Years of Experience**: 4 years in Data Science and AI and Software Developent.
-- 💼 **Current Role**: AI Engineer and Data Scientist
+- 🌟 **Years of Experience**: 2 years in AI Engineering, 3 years in Data Science and AI and Software Developent.
+- 💼 **Current Role**: AI Engineer and Aspiring Forward Deployed Engineer
 - 🎓 **Education**: Information Engineering and Media at Nanyang Technological University.
 - 🌐 **Website**: https://iggyikigai.github.io/Profile/
 
@@ -13,9 +13,9 @@ Hey there! I'm Ignatius Tang, a passionate data scientist with a strong backgrou
 
 I specialize in:
 
-- 💻 **Programming Languages**: Python, C/C#, Java, JS, HTML/CSS
-- 🚀 **Technologies**: Azure ML Studio, Prompt Flow, React, NodeJS, AI Library(Pandas), TensorFlow, ScikitLearn, Selenium
-- 📚 **Areas of Expertise**: Natural Language Processing, Computer Vision, Data Science, Prompt Engineering, Web Development, Frontend Design, Server-side Management, Automation Testing
+- 💻 **Programming Languages**: Python, C/C#, Java, JS, Typescript, HTML/CSS
+- 🚀 **Technologies**: GCP, AWS, Azure ML Studio, Docker/Kubernetes, n8n, VertexAI, React, NodeJS, AI Library(Pandas), TensorFlow, ScikitLearn, Selenium
+- 📚 **Areas of Expertise**: RAG systems, Agentic AI, Natural Language Processing, Computer Vision, Data Science, Prompt Engineering, Web Development, UI/UX, Server-side Management, Automation Testing
 
 ## My GitHub Contributions
 
