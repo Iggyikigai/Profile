@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hey there! I'm Ignatius Tang, a passionate AI Engineer with a strong background in creating innovative and efficient solutions. Welcome to my GitHub profile, where you'll find a collection of my projects and contributions in the world of data science and AI.
+Hey there! I'm Ignatius, a realistic, no-hype and passionate AI Engineer with a strong background in creating enterprise RAG solutions and applied LLMs. Welcome to my GitHub profile, where you'll find a collection of my projects and contributions in the real world of AI and Data. (No fake slop)
 
 ## About Me
 
@@ -38,4 +38,4 @@ Feel free to explore my repositories, open issues, and contribute to any project
 - 📱 **Instagram**: https://www.instagram.com/ignatius.ui/
 - 🌐 **Website/Blog**: https://iggyikigai.github.io/Profile/
 
-I'm always excited to meet fellow data scientists, share knowledge, and work on exciting projects together. Thanks for visiting, and happy coding! 🚀
+I'm always excited to meet fellow builders, share knowledge, and work on exciting projects together. Thanks for visiting, and happy (vibe)coding! 🚀
