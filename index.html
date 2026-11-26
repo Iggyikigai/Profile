@@ -146,14 +146,18 @@
 						</p>
 					</header>
 					<div class="box">
-						<form method="post" action="#">
+						<form action="https://api.web3forms.com/submit" method="POST">
+							<input type="hidden" name="access_key" value="572604d3-cfb3-4770-b1c7-88b9a4bcdaa0">
+							<input type="hidden" name="subject" value="Portfolio: Let's Collaborate">
+							<input type="hidden" name="from_name" value="Ignatius Tang Portfolio">
+							<input type="checkbox" name="botcheck" style="display: none" tabindex="-1" autocomplete="off">
 							<div class="fields">
-								<div class="field half"><input type="text" name="name" placeholder="Name" /></div>
-								<div class="field half"><input type="email" name="email" placeholder="Email" /></div>
-								<div class="field"><textarea name="message" placeholder="Message" rows="6"></textarea></div>
+								<div class="field half"><input type="text" name="name" placeholder="Name" required></div>
+								<div class="field half"><input type="email" name="email" placeholder="Email" required></div>
+								<div class="field"><textarea name="message" placeholder="Message" rows="6" required></textarea></div>
 							</div>
 							<ul class="actions special">
-								<li><input type="submit" value="Send Message" /></li>
+								<li><input type="submit" value="Send Message"></li>
 							</ul>
 						</form>
 					</div>
